@@ -1,0 +1,27 @@
+2019-02-13 23:11:55,047 log_base.py--> <module> 40: ERROR ----->test
+2019-02-13 23:12:18,189 log_base.py--> <module> 20: INFO ----->test
+2019-02-13 23:24:41,670 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:24:49,063 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:24:55,168 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:24:55,399 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:24:55,534 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:25:03,511 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:25:06,511 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:28:04,035 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:28:06,460 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:28:09,331 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:28:09,454 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:28:09,594 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:28:14,452 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:28:17,453 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:30:48,289 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:30:50,817 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:30:52,259 keyword_case.py--> get_real_result_value 20: INFO ----->get real result !
+2019-02-13 23:30:52,259 keyword_case.py--> run_method 40: ERROR ----->no send value ,no handle value !
+2019-02-13 23:30:54,276 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:30:54,371 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:30:54,504 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:30:55,577 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:30:55,577 keyword_case.py--> run_method 40: ERROR ----->no send value ,no handle value !
+2019-02-13 23:30:58,577 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-13 23:30:58,577 keyword_case.py--> run_method 40: ERROR ----->no send value ,no handle value !

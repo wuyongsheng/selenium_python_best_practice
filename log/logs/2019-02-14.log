@@ -1,0 +1,11 @@
+2019-02-14 23:13:12,981 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-14 23:13:15,312 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-14 23:13:16,078 keyword_case.py--> get_real_result_value 20: INFO ----->get real result !
+2019-02-14 23:13:16,098 keyword_case.py--> run_method 40: ERROR ----->no send value ,no handle value !
+2019-02-14 23:13:18,132 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-14 23:13:18,231 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-14 23:13:18,524 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-14 23:13:20,764 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-14 23:13:20,765 keyword_case.py--> run_method 40: ERROR ----->no send value ,no handle value !
+2019-02-14 23:13:23,765 excel_cell_value.py--> get_is_run 20: INFO ----->is run ?
+2019-02-14 23:13:23,765 keyword_case.py--> run_method 40: ERROR ----->no send value ,no handle value !
