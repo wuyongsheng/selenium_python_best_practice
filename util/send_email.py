@@ -17,14 +17,14 @@ report_file = last_report.latest_file()
 class SendEmail:
     def __init__(self,receivers = None):
         self.mail_host = "smtp.163.com"  # 设置服务器
-        self.mail_user = "18627951522@163.com"  # 用户名
-        self.mail_pass = "wysh158198976"  # 密令/密码
+        self.mail_user = "188********@163.com"  # 用户名
+        self.mail_pass = "******"  # 密令/密码
 
-        self.sender = '18627951522@163.com'
+        self.sender = '188********@163.com'
         if receivers:
             self.receivers = receivers
         else:
-            self.receivers = ['1025362683@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+            self.receivers = ['82*******@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
 
     def get_report_file(self,report_file):
         """获取最近一次测试报告"""
